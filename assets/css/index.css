@@ -3,6 +3,9 @@
     height: 100vh;
     box-sizing: border-box;
 }
+a{
+    text-decoration: none;
+}
 body{
     margin: auto;
     padding: auto;
